@@ -23,6 +23,7 @@ while True:
     low_num = 1
     high_num = 100
 
+    print(f"ascii.name")
     print("Guess the number from 1 to 100!")
 
     while user_lives > 0:
